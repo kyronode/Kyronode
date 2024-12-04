@@ -2,6 +2,7 @@
 <p align="center">
   <img src="https://github.com/kyronode/Kyronode/blob/main/Kyronode.png" alt="Kyronode">
 </p>
+
 ## **Welcome to Our Blockchain Journey 🚀**  
 
 Hello, and welcome! 👋 We are passionate node runners and validators, dedicated to contributing to the blockchain world. For years, we’ve been working behind the scenes, helping to secure and stabilize various networks. Now, we are stepping forward to build stronger connections, share our experiences, and collaborate with the vibrant blockchain community.  
