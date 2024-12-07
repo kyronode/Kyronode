@@ -1,6 +1,6 @@
 # Kyronode
 <p align="center">
-  <img src="https://github.com/kyronode/Kyronode/blob/main/Kyronode.png" alt="Kyronode">
+  <img src="https://github.com/kyronode/Kyronode/blob/main/kyronode.png" alt="Kyronode">
 </p>
 
 ## **Welcome to Our Blockchain Journey 🚀**  
